@@ -4,9 +4,6 @@
   "description": "Native Access to MacOS FSEvents",
   "main": "fsevents.js",
   "types": "fsevents.d.ts",
-  "os": [
-    "darwin"
-  ],
   "files": [
     "fsevents.d.ts",
     "fsevents.js",
